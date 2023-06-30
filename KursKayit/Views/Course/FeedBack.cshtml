@@ -1,6 +1,6 @@
 @model Candidate
 
-<div> 
+<div>
     <h3 class="display-4">Congratulation @Model.FullName</h3>
     <p class="lead">Your application has been <mark>accepted.</mark></p>
     <p class="lead">Many thanks for your interest. </p>
@@ -11,7 +11,7 @@
     <p class="tex-muted">You applied ar @Model.ApplyAt.</p>
 
     <div class="btn-group">
-        <a class="btn btn-outline-success" href="a">Application</a>
+        <a class="btn btn-outline-success" asp-action="Index">Application</a>
         <a class="btn btn-success" asp-action="Index" asp-controller="Home">Home</a>
     </div>
 </div>
