@@ -24,3 +24,5 @@ C:\Users\hp\Desktop\MVC\Store\StoreApp\obj\Debug\net6.0\refint\StoreApp.dll
 C:\Users\hp\Desktop\MVC\Store\StoreApp\obj\Debug\net6.0\StoreApp.pdb
 C:\Users\hp\Desktop\MVC\Store\StoreApp\obj\Debug\net6.0\StoreApp.genruntimeconfig.cache
 C:\Users\hp\Desktop\MVC\Store\StoreApp\obj\Debug\net6.0\ref\StoreApp.dll
+C:\Users\hp\Desktop\MVC\Store\StoreApp\obj\Debug\net6.0\StoreApp.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\MVC\Store\StoreApp\obj\Debug\net6.0\StoreApp.RazorAssemblyInfo.cs
